@@ -207,9 +207,9 @@ Customers without technical support and online security services tend to churn m
 ## Dashboard
 
 Example:
-![Dashboard Screenshots](Overview_page.jpg) 
-!(Churn_insights.jpg)
-!(Segmentation_page.jpg)
+![Dashboard Screenshot-1](Overview_page.jpg) 
+![Dashboard Screenshot-2](Churn_insights.jpg)
+![Dashboard Screenshot-3](Segmentation_page.jpg)
 
 ## Author
 
