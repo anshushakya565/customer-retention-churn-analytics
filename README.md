@@ -204,6 +204,13 @@ Customers without technical support and online security services tend to churn m
 
 ---
 
+## Dashboard
+
+Example:
+![Dashboard Screenshots](Overview_page.jpg) 
+!(Churn_insights.jpg)
+!(Segmentation_page.jpg)
+
 ## Author
 
 Anshu Shakya
